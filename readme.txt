@@ -1,0 +1,1 @@
+To play this awesome snake program, you need to step up the bitmap display with unit width/height 8 and display width/height 256. Also the base address for display should be in $gp. Then setup the keyboard and you are good to go!
